@@ -1,0 +1,38 @@
+body,html{
+    height: 100%;
+}
+.divider-title{
+    font-size: 23px;
+    color: #101011;
+}
+.el-divider{
+    margin-top: 80px;
+}
+.divider-info{
+    font-size: 14px;
+    width: 350px;
+    margin: 25px auto;
+    line-height: 24px;
+    overflow: hidden;
+    text-indent: 20px;
+}
+.center-box{
+    width: 1200px;
+    margin: auto;
+}
+.el-button--primary{
+    color: #FFF;
+    background-color: #1b3045;
+    border-color: #1b3045
+}
+.el-button--primary:focus, .el-button--primary:hover {
+    background: #2f5478;
+    border-color: #2f5478;
+    color: #FFF;
+}
+.el-scrollbar__wrap{
+    overflow-x: hidden;
+}
+.el-steps--simple{
+    padding: 13px 4%;
+}
